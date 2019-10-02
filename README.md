@@ -1,4 +1,3 @@
 # C
-GNG1106
+Stuff I've coded for GNG1106
 
-As  Assignment[n] -> ∞ , Difficulty -> High
