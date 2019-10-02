@@ -1,5 +1,5 @@
 /*-----------------------------------------------------------------
-Author: Chethin Manage
+Author: cmanage1
 Date: Oct 12th 2018 (Fall 2018 Semester)
 Course: GNG 1106
 Description: This program calculates the average velocity of water in a
